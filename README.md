@@ -1,2 +1,2 @@
 # LaunchX-Frontend-Mission
-Practicas LaunchX - Misión Frontend launchx
+Practicas LaunchX - Misión Frontend Launchx
