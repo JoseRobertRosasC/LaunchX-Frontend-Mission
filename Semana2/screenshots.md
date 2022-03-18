@@ -2,15 +2,15 @@
 
 ## Interfaz del cliente
 <div style="text-align:center">
-    <img src="./screenshots/Cliente.png"/>
+    <img src="./imágenes/Cliente.png"/>
 </div>
 
 ## Interfaz del formulario
 <div style="text-align:center">
-    <img src="./screenshots/Formulario"/>
+    <img src="./imágenes/Formulario"/>
 </div>
 
 ## Interfaz del pastelero
 <div style="text-align:center">
-    <img src="./screenshots/Pastelero-Administrador.png"/>
+    <img src="./imágenes/Pastelero-Administrador.png"/>
 </div>
