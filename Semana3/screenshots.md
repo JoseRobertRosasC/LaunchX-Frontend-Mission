@@ -1,19 +1,19 @@
 # Maquetación en HTML y CSS de página de vacunacion
 
 <div style="text-align:center">
-    <img src="./screenshots/Vaccine"/>
+    <img src="./screenshots/Vaccine.png"/>
 </div>
 
 ## Mercadotecnía para llegar al sitio
 
 <div style="text-align:center">
-    <img src="./screenshots/publicidad1"/>
+    <img src="./screenshots/publicidad1.png"/>
 </div>
 
 <div style="text-align:center">
-    <img src="./screenshots/publicidad2"/>
+    <img src="./screenshots/publicidad2.png"/>
 </div>
 
 <div style="text-align:center">
-    <img src="./screenshots/publicidad3"/>
+    <img src="./screenshots/publicidad3.png"/>
 </div>
