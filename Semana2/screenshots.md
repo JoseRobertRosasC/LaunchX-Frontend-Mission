@@ -7,7 +7,7 @@
 
 ## Interfaz del formulario
 <div style="text-align:center">
-    <img src="./imágenes/Formulario"/>
+    <img src="./imágenes/Formulario.png"/>
 </div>
 
 ## Interfaz del pastelero
