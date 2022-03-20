@@ -4,3 +4,4 @@
     <img src="./screenshots/Pokedex.png"/>
 </div>
 
+[Ir al sitio](https://joserobertrosasc.github.io/Pokedex/)
